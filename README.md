@@ -1,2 +1,3 @@
-# track_me
-Show geo tags on the map
+# TrackMys
+
+Show geo tags on a map

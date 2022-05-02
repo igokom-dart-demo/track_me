@@ -18,5 +18,9 @@ doc/api/
 *.js.deps
 *.js.map
 
-# custom
-.idea
+#custom
+.flutter-plugins-dependencies
+.flutter-plugins
+local.properties
+
+/lib/generated_plugin_registrant.dart
